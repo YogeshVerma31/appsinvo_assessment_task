@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btnMyBooking"
+        android:icon="@drawable/button_my_booking"
+        android:title="@string/menu_my_booking"/>
+    <item
+        android:id="@+id/btnScanQr"
+        android:icon="@drawable/button_scan_qr"
+        android:title="@string/menu_scan_qr"/>
+    <item
+        android:id="@+id/btnHome"
+        android:icon="@drawable/botton_home"
+        android:title="@string/menu_home"/>
+    <item
+        android:id="@+id/btnMyQR"
+        android:icon="@drawable/button_my_qr"
+        android:title="@string/menu_my_qr"/>
+    <item
+        android:id="@+id/btnProfile"
+        android:icon="@drawable/button_profile"
+        android:title="@string/menu_profile"/>
+
+</menu>

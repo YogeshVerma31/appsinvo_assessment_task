@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WalkIn</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_my_booking">My Booking</string>
+    <string name="menu_scan_qr">Scan QR</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_my_qr">My QR</string>
+    <string name="menu_profile">Profile</string>
+    <string name="ny_11434_usa">NY 11434, USA</string>
+    <string name="_textstay_safe">Stay safe</string>
+    <string name="text_always_wear_mask">Always Wear \n a Mask</string>
+    <string name="text_wash_hand">Wash hand</string>
+    <string name="text_keep_distance_n_with_other_person">Keep Distance \n with Other Person</string>
+</resources>
